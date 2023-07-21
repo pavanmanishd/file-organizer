@@ -1,0 +1,8 @@
+{
+    "watch_dir" : "/home/pavanmanishd/Downloads",
+    "dest_dir_video" : "/home/pavanmanishd/Downloads/Videos",
+    "dest_dir_image" : "/home/pavanmanishd/Downloads/Images",
+    "dest_dir_documents" : "/home/pavanmanishd/Downloads/Documents",
+    "dest_dir_audio" : "/home/pavanmanishd/Downloads/Audio",
+    "dest_dir_others" : "/home/pavanmanishd/Downloads/Others"
+}
